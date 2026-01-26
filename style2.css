@@ -1,0 +1,45 @@
+body{
+    background-color: orange;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-variant: small-caps;
+    letter-spacing:20px ;
+    word-spacing: 20px;
+}
+
+h3{
+    /* border:5px black solid ; */
+    border-top: 5px red solid;
+    border-right: 5px lightgreen solid;
+    border-bottom: 5px green solid;
+    border-left: 5px blue solid;
+
+    /* padding  */
+    /* padding 50px  */
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+
+    /* margin  */
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+    margin-left: 60px;
+
+    background-color: palevioletred;
+
+    color: white;
+
+    
+
+    
+}
+
+a{
+    color:white;
+    background-color: brown;
+}
